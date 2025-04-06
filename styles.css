@@ -7,7 +7,8 @@ body{
 header{
     padding-left: 200px;
     padding-right: 200px;
-    background-color: black;
+    background-color:#1F2937;
+    padding-bottom: 150px;
 }
 
 .top-header{
@@ -54,10 +55,15 @@ a{
 
 button{
     background-color: #3882F6;
-    padding-left: 23px;
-    padding-right: 23px;
-    padding-top: 12px;
-    padding-bottom: 12px;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    border: none;
+    color:#F9FaF8;
+    font-weight:bolder;
+    margin-top: 10px;
 }
 
 .container-header{
